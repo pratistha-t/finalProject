@@ -108,7 +108,16 @@ padding: 20px;
 }
 .boldit{
   font-weight: bold;
-  font-family: Stylish;
+  font-family:stylish;
+  font-size:25px;
+}
+.boldit2{
+  font-family:stylish;
+  font-size:20px;
+}
+.boldit3{
+  font-family:stylish;
+  font-size:20px;
 }
 .p2-human{
   font-family:crimson text;
