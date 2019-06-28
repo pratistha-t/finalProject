@@ -1,0 +1,340 @@
+body{
+  margin:25px;
+}
+.authors {
+  font-size: 20px;
+}
+.index{
+  background-image: radial-gradient(#d3d3d3, white, #d3d3d3);
+  
+}
+.center {
+  background-color:#add8e6;
+  background-image:url("http://linkv.net/wp-content/uploads/2018/09/textures-notebook-paper-backgrounds-1600x1200-powerpoint-for-notebook-paper-background-for-powerpoint.jpg");
+  background-size: cover;
+  background-repeat: repeat-y;
+}
+.journal{
+  writing-mode:vertical-rl;
+  font-size:70px;
+  position:relative;
+  top:200px;
+  font-family:cursive;
+}
+.journal2{
+  writing-mode:vertical-rl;
+  font-size:70px;
+  position:relative;
+  left:1200px;
+  bottom:10px;
+  font-family:cursive;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  bottom: 400px;
+  left: 300px; 
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+position:relative;
+  right: 100px;
+  width: 1000px;
+  text-align: flex-start;
+}
+.contact{
+  background-image:url("https://backgroundcheckall.com/wp-content/uploads/2018/10/best-background-sites-5.jpg");
+    background-size: cover;
+  font-size: 20px;
+  margin: 50px;
+  margin-bottom:20px;
+}
+.contactHeading {
+  bottom:20px;
+  position:relative;
+}
+.source {
+padding: 20px;
+  margin: 30px;
+  position:relative;
+  bottom:30px;
+}
+.links{
+  background-image: linear-gradient(#ff8c90, #ffffe0);
+}
+.first-text{
+  font-family:Trebuchet MS;
+  color: crimson;
+}
+.second-text{
+  font-family:Crimson Text;
+  font-size:27px;
+  border: 5px red ridge;
+  width:150px;
+  padding:7px;
+}
+.third-text{
+  font-family:crimson text;
+  font-size:27px;
+  border: 5px red ridge;
+  width:250px;
+  font-size:27px;
+  padding:7px;
+  position:relative;
+  left:700px;
+  top:100px;
+}
+.one-human{
+  font-size:30px;
+  font-family:Trebuchet MS;
+}
+.two-human{
+  font-family:Stylish;
+  font-size:25px;
+}
+.three-human{
+  font-family:Stylish;
+  font-size:25px;
+}
+.four-human{
+  font-family:Stylish;
+  font-size:25px;
+}
+.p-human{
+  font-family:crimson text;
+  font-size:20px;
+}
+.boldit{
+  font-weight: bold;
+}
+.p2-human{
+  font-family:crimson text;
+  font-size:20px;
+}
+.p3-human{
+  font-family:crimson text;
+  font-size:20px;
+}
+.p4-human{
+  font-family:crimson text;
+  font-size:20px;
+}
+.p-one{
+  font-family:Stylish;
+  width:600px;
+  font-size:19px;
+}
+.p-two{
+  font-size:19px;
+  font-family:Stylish;
+  position:relative;
+  left:700px;
+  width:600px;
+  top:70px;
+  margin-bottom: 10px;
+}
+.p-links{
+  font-size:30px;
+  margin-bottom:50px;
+}
+.img{
+  width:600px;
+  height:250px;
+  bottom:250px;
+  position:relative;
+  border: red dotted 3px;
+}
+.solutions{
+  background-color:#C2CAD0;
+  font-size: 25px;
+  text-align: center;
+}
+.solutions-h{
+  border:5px inset #663300;
+  width:300px;
+  color:crimson;
+  font-size:30px;
+}
+.solute {
+  font-size: 20px;
+}
+.img2{
+  position:relative;
+  bottom:480px;
+  left:330px;
+  width:400px;
+  height:300px;
+  border: red dotted 3px;
+}
+a:link{
+            color:#0000ff;
+}   
+a:visited{
+            color:#DD2A1B;
+}
+a:hover{
+            color:#800080;
+}
+
+a:active{
+   color:#01CB9B;
+}
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  width: 700px;
+  background-color: #f1f1f1;
+  border:black double 5px;
+  flex-direction:row;
+  display:flex;
+}
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+.clicked{
+  background-color:grey;
+}
+.enter{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.thoughts {
+  height: 40px;
+  width: 400px;
+}
+.learnMore{
+  font-family:Crimson Text;
+  color:#202020;
+  font-size:25px;
+   text-indent: 10%;
+}
+.solut-dif{
+  position:relative;
+  right:405px;
+  top: 70px;
+}
+.img3link{
+  width:500px;
+    height:600px;
+border:5px 5px;
+  padding:5px;
+}
+.img4link{
+  width:500px;
+    height:600px;
+  border:5px 5px;
+  padding:5px;
+}
+.Quote1{
+  font-size:20px;
+  color:#cc0066;
+}
+.p-links{
+  text-decoration-style:underline;
+}
+.vid1{
+  padding-right:30px;
+}
+.vid2{
+  padding-left:30px;
+}
+ .img3{
+  width:400px;
+  height:500px;
+  border-radius:10% 10% 10% 10%;
+  float:right;
+  padding:20px;
+  position: relative;
+  top: 8px; 
+}
+.img4{
+  width:400px;
+  height:500px;
+  border-radius:10% 10% 10% 10%;
+  float:right;
+  padding:5px;
+  position: relative;
+  top: 20px;
+}
+.img5{
+  width:500px;
+  height:400px;
+  border-radius:10% 10% 10% 10%;
+  float:left;
+  padding:20px;
+}
+.img6{
+  width:450px;
+  height:450px;
+  border-radius:10% 10% 10% 10%;
+  float:right;
+  padding:20px;
+  position: relative;
+  top: 20px;
+}
+.img7{
+  width:300px;
+  height:300px;
+  border-radius:10% 10% 10% 10%;
+  float:left;
+  padding:20px;
+}
+.img8{
+  width:400px;
+  height:400px;
+  border-radius:10% 10% 10% 10%;
+  float:right;
+  padding:80px;
+  padding-left:30px;
+  position: relative;
+  bottom: 400px;
+  left: 70px;
+  margin-top: 20px;
+}
+.img9{
+  width:450px;
+  height:360px;
+  border-radius:10% 10% 10% 10%;
+  float:left;
+  padding-bottom:30px;
+  padding:40px;
+  position: relative;
+  top: 20px;
+  right: 360px;
+}
+.img10{
+  width:450px;
+  height:500px;
+  border-radius:10% 10% 10% 10%;
+  float:left;
+  padding:20px;
+}
+.human{
+  background-image: linear-gradient(to right, #D8C3A5, white);
+  margin-bottom:60px;
+}
+.vid{
+  display: flex;
+  justify-content: center;
+}
+.link-text{
+  position:relative;
+margin: 20px;
+}
+.imageLink{
+  display:flex;
+  flex-direction: column;
+  position: relative;
+  left: 50px;
+}
